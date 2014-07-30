@@ -1,3 +1,6 @@
 [submodule "draggable-image-boxes-grid"]
 	path = draggable-image-boxes-grid
 	url = https://github.com/alessandrotimeinc/draggable-image-boxes-grid.git
+[submodule "ScatteredPolaroidsGallery"]
+	path = ScatteredPolaroidsGallery
+	url = https://github.com/alessandrotimeinc/ScatteredPolaroidsGallery.git
